@@ -49,7 +49,7 @@
 ### 切换域
 
 ```shell
-> cdn use cdnjs
+> cdn use cdnjs.com
 ```
 
 ## 目前支持cdn网站
