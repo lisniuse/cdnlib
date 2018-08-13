@@ -61,5 +61,6 @@ https://cdn.baomitu.com/ | （国内）前端静态资源库，首个支持 HTTP
 http://staticfile.org/ | （国内）开放静态文件 - 为开源库稳定、快速的免费 CDN 服务。
 https://www.beecdn.com/ | （国内）BeeCDN是一个专门为前端程序猿提供的开源库CDN加速服务。BeeCDN借助阿里云的OSS存储以及三家互联网巨头（百度云、腾讯云、阿里云）提供的CDN服务，为广大程序猿带来完美的CDN加速体验，让你的服务器减轻负重，让你的网站速度更上一个台阶。
 https://cdn.bytedance.com/ | （国内）今日头条静态资源公共库。
-http://www.cdnjs.net/ | （国内）前端公共库CDN加速，阿里云CDN加速，永久免费，保护隐私，500+节点毫秒级响应。每日同步cdnjs.com，支持https及请求合并，安全稳定快速
-https://cdnjs.com/libraries | （国外）cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
+http://www.cdnjs.net/ | （国内）前端公共库CDN加速，阿里云CDN加速，永久免费，保护隐私，500+节点毫秒级响应。每日同步cdnjs.com，支持https及请求合并，安全稳定快速。
+https://www.jsdelivr.com/ | （国外）A free, fast, and reliable Open Source CDN for npm and GitHub with the largest network and best performance among all CDNs. Serving more than 20 billion requests per month.
+https://cdnjs.com/ | （国外）cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
