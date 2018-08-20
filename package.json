@@ -3,7 +3,7 @@
     "description": "Insert a cdn library for your static page.",
     "author": "Lisniuse <l@numpy.org.cn> (https://tiesec.org/)",
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "node": ">=8.9.0"
     },
